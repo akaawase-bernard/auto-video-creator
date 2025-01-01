@@ -31,7 +31,7 @@ if clear_flag:
 
 
 # Initialize the Cohere client
-co = cohere.Client('eVETg688WO5ALfJXDHOUbHU1QImyyZM1xJo0Bcbw')
+co = cohere.Client('eVETg688WO5ALfJXDHOUImyyZM1xJo_yours')
 
 # Generate text
 response = co.generate(
