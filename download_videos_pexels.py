@@ -7,7 +7,7 @@ search_query = "ocean waves aerial"  # Replace with your search term
 num_videos = 8
 
 # Configure your Pexels API key here
-PEXELS_API_KEY = "tqC7pqI0UOgIAAinMKOMj24ywXQl688o8NizpkGZyWkQsnyu36lBXqst"
+PEXELS_API_KEY = "yours_tqC7pqI0UOgIAAinMKOMj2GZyWkQsnyu36lBXqst"
 
 # Create a folder to store downloaded videos
 VIDEOS_FOLDER = "videos"
